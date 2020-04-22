@@ -11,7 +11,7 @@ SLEEPTIME=10
 
 #IP Address or domain name to ping. The script relies on the domain being 
 #pingable and always available
-TESTIP=www.wp.pl
+TESTIP=www.onet.pl
 
 #Ping timeout in seconds
 TIMEOUT=2
