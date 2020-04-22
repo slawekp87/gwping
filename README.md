@@ -1,0 +1,2 @@
+# gwping
+Automatyczna zmiana rutingu
